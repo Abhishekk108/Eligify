@@ -1,0 +1,23 @@
+.badge {
+  display: inline-block;
+  padding: var(--spacing-xs) var(--spacing-md);
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+  border-radius: calc(var(--border-radius) / 2);
+  text-transform: capitalize;
+}
+
+.badge-applied {
+  background-color: #dbeafe;
+  color: #1e40af;
+}
+
+.badge-pending {
+  background-color: #fef3c7;
+  color: #92400e;
+}
+
+.badge-received {
+  background-color: #d1fae5;
+  color: #065f46;
+}

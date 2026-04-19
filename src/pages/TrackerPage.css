@@ -1,0 +1,10 @@
+.tracker-page {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.tracker-page h1 {
+  text-align: center;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}

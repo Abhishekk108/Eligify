@@ -1,0 +1,18 @@
+.footer {
+  background-color: var(--color-text);
+  color: white;
+  margin-top: auto;
+  padding: var(--spacing-xl) var(--spacing-lg);
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer-team {
+  margin-top: var(--spacing-sm);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-light);
+}

@@ -1,0 +1,3 @@
+@echo off
+echo Starting SaarthiYantra Frontend...
+npm run dev

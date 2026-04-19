@@ -1,0 +1,17 @@
+.eligibility-page {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.eligibility-page h1 {
+  text-align: center;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+.page-description {
+  text-align: center;
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-xl);
+  font-size: var(--font-size-lg);
+}

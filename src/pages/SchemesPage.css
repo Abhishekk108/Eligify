@@ -1,0 +1,14 @@
+.schemes-page {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.schemes-page h1 {
+  text-align: center;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+.schemes-list {
+  margin-top: var(--spacing-xl);
+}
