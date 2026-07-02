@@ -29,7 +29,7 @@ export const explainSchemeChat = async (req, res, next) => {
     const languageName = languageMap[language] || 'English'
     
     // Build system prompt
-    const systemPrompt = `You are SaarthiBot, a helpful government scheme assistant for persons with disabilities in India.
+    const systemPrompt = `You are Eligify , a helpful government scheme assistant for persons with disabilities in India.
 
 The user has the following profile:
 - Disability: ${user.disability_type}
