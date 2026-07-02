@@ -1,4 +1,4 @@
-const CACHE_NAME = 'saarthiyantra-v1'
+const CACHE_NAME = 'eligify-v1'
 const urlsToCache = [
   '/',
   '/index.html'
